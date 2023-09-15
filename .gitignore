@@ -1,0 +1,15 @@
+.DS_Store
+.git
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.cache
+.replit
+.config
+replit.nix
